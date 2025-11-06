@@ -1,0 +1,215 @@
+[
+  {
+    "id": "7052e7f7-74df-42eb-bb70-424e8e795b61",
+    "timestamp": "2025-11-06T22:08:38.512322",
+    "image": "1c34372a-4548-412f-b552-bfc4a52def65.jpeg",
+    "prediction": {
+      "disclaimer": "This analysis is based solely on the provided image and is intended for informational purposes only. It does not constitute a formal medical diagnosis, and should not be used to replace professional medical advice. Always consult with a qualified healthcare provider for any health concerns or before making any decisions related to your health or treatment.",
+      "primary_prediction": "Vitiligo",
+      "visual_rationale": "The image shows well-defined, depigmented macules and patches on the dorsal aspect of both hands. The lesions are characterized by a complete absence of melanin, resulting in a stark white appearance compared to the surrounding skin. The distribution is somewhat symmetrical, affecting multiple fingers and areas of the hands. These features are consistent with vitiligo, a chronic pigmentary disorder.",
+      "confidence_score": "95%",
+      "differential_diagnoses": [
+        "Pityriasis alba",
+        "Chemical leukoderma",
+        "Post-inflammatory hypopigmentation",
+        "Tinea versicolor"
+      ],
+      "recommended_actions": [
+        "Dermatological examination for confirmation of diagnosis.",
+        "Wood's lamp examination to assess the extent of depigmentation.",
+        "Consider skin biopsy if the diagnosis is uncertain or if atypical features are present.",
+        "Discuss potential treatment options, including topical corticosteroids, calcineurin inhibitors, phototherapy, and depigmentation therapy for extensive disease.",
+        "Counsel the patient regarding the chronic nature of vitiligo and the importance of sun protection."
+      ],
+      "severity_level": "Low",
+      "urgency": "Routine"
+    }
+  },
+  {
+    "id": "52093736-2332-487b-94ed-8fff331d1c2d",
+    "timestamp": "2025-11-06T21:53:12.823085",
+    "image": "f0ad7f95-640e-4a64-815e-2a9961d70da9.jpeg",
+    "prediction": {
+      "disclaimer": "This analysis is based solely on the provided image and should not be considered a definitive diagnosis. A qualified healthcare professional should be consulted for accurate diagnosis and treatment.",
+      "primary_prediction": "Vitiligo",
+      "visual_rationale": "The image shows well-defined, depigmented macules and patches on the dorsal aspects of both hands. These lesions are characteristic of vitiligo, an acquired depigmenting disorder. The lesions appear to be non-scaling and lack any signs of inflammation or textural changes, further supporting the diagnosis of vitiligo.",
+      "confidence_score": "90%",
+      "differential_diagnoses": [
+        "Pityriasis alba",
+        "Chemical leukoderma",
+        "Post-inflammatory hypopigmentation",
+        "Tinea versicolor"
+      ],
+      "recommended_actions": [
+        "Dermatological examination for confirmation of diagnosis.",
+        "Wood's lamp examination to assess the extent of depigmentation.",
+        "Consider skin biopsy if the diagnosis is uncertain or if there are atypical features.",
+        "Discuss treatment options, including topical corticosteroids, calcineurin inhibitors, phototherapy, and depigmentation therapy for extensive disease.",
+        "Counsel the patient regarding the chronic nature of vitiligo and the importance of sun protection."
+      ],
+      "severity_level": "Moderate",
+      "urgency": "Routine"
+    }
+  },
+  {
+    "id": "6a9da538-d4a1-423f-acfc-c4aae49fae92",
+    "timestamp": "2025-11-06T21:39:26.820973",
+    "image": "69701c71-5a78-41d0-adc2-fc1b3e1db26a.jpeg",
+    "prediction": {
+      "disclaimer": "This analysis is based solely on the provided image and should not be considered a definitive diagnosis. A qualified healthcare professional should be consulted for accurate diagnosis and treatment.",
+      "primary_prediction": "Vitiligo",
+      "visual_rationale": "The image displays well-defined, depigmented macules and patches on the dorsal aspect of both hands. These lesions are characteristic of vitiligo, an autoimmune condition resulting in the loss of melanocytes. The lesions exhibit a non-scaling, non-inflammatory appearance, further supporting the diagnosis.",
+      "confidence_score": "90%",
+      "differential_diagnoses": [
+        "Pityriasis alba",
+        "Chemical leukoderma",
+        "Post-inflammatory hypopigmentation",
+        "Tinea versicolor"
+      ],
+      "recommended_actions": [
+        "Referral to a dermatologist for confirmation and management.",
+        "Wood's lamp examination to assess the extent of depigmentation.",
+        "Consider skin biopsy to rule out other conditions if the diagnosis is uncertain.",
+        "Counseling regarding the chronic nature of vitiligo and available treatment options (topical corticosteroids, phototherapy, etc.).",
+        "Assess for associated autoimmune conditions (thyroid disease, etc.)."
+      ],
+      "severity_level": "Moderate",
+      "urgency": "Routine"
+    }
+  },
+  {
+    "id": "4a651c4c-65a2-4945-a771-3e223897f786",
+    "timestamp": "2025-11-06T21:38:34.960181",
+    "image": "b6bf107a-68f5-4f54-95e3-8614a9e8793b.jpeg",
+    "prediction": {
+      "disclaimer": "This analysis is based solely on the provided image and should not be considered a definitive diagnosis. A qualified healthcare professional should be consulted for accurate diagnosis and treatment.",
+      "primary_prediction": "Vitiligo",
+      "visual_rationale": "The image shows well-defined, depigmented macules and patches on the dorsal aspect of both hands. These lesions are characteristic of vitiligo, an autoimmune condition resulting in the loss of melanocytes. The lesions exhibit a non-scaly, non-inflammatory appearance, further supporting the diagnosis.",
+      "confidence_score": "90%",
+      "differential_diagnoses": [
+        "Pityriasis alba",
+        "Chemical leukoderma",
+        "Post-inflammatory hypopigmentation",
+        "Tinea versicolor"
+      ],
+      "recommended_actions": [
+        "Dermatological examination for confirmation.",
+        "Wood's lamp examination to assess the extent of depigmentation.",
+        "Consider skin biopsy if the diagnosis is uncertain.",
+        "Assess for associated autoimmune conditions (e.g., thyroid disease).",
+        "Discuss treatment options, including topical corticosteroids, calcineurin inhibitors, phototherapy, and depigmentation therapy for extensive disease."
+      ],
+      "severity_level": "Moderate",
+      "urgency": "Routine"
+    }
+  },
+  {
+    "id": "5281e106-3b58-4a32-b8a0-c56940343ab6",
+    "timestamp": "2025-11-06T11:12:31.909277",
+    "image": "79aa185f-be87-40e7-8f1e-8a3515306712.png",
+    "prediction": {
+      "disclaimer": "This analysis is based solely on the provided image and should not be considered a definitive diagnosis. Always consult with a qualified healthcare professional for accurate diagnosis and treatment.",
+      "primary_prediction": "Insufficient image quality for diagnostic interpretation. The image presents as uniformly dark, precluding any meaningful assessment of anatomical structures or pathological conditions.",
+      "visual_rationale": "The image lacks discernible features, contrast, and detail. The absence of any visible structures or patterns prevents any form of diagnostic analysis. The uniform darkness suggests a potential issue with image acquisition or a corrupted file.",
+      "confidence_score": "5%",
+      "differential_diagnoses": [
+        "Image acquisition error",
+        "Corrupted image file",
+        "Complete absence of signal",
+        "Equipment malfunction"
+      ],
+      "recommended_actions": [
+        "Repeat image acquisition with appropriate settings.",
+        "Verify image file integrity.",
+        "Ensure proper functioning of imaging equipment.",
+        "Consult with a radiologist or imaging specialist to troubleshoot the issue."
+      ],
+      "severity_level": "Low",
+      "urgency": "Routine"
+    }
+  },
+  {
+    "id": "efa87d1b-fac1-4799-b332-889d8bcc8a57",
+    "timestamp": "2025-11-06T11:11:50.397623",
+    "image": "b29678f6-3782-40da-bae4-f6de5c3ff1ac.jpg",
+    "prediction": {
+      "disclaimer": "This analysis is based solely on the provided image and should not be considered a definitive diagnosis. A qualified healthcare professional should be consulted for accurate diagnosis and treatment.",
+      "primary_prediction": "Purpura, likely Henoch-Sch\u00f6nlein Purpura (HSP) or vasculitis.",
+      "visual_rationale": "The image shows multiple, small, raised, reddish-purple lesions (purpura) distributed on the lower leg and ankle. Some lesions appear petechial, while others are larger and more confluent. The morphology and distribution are consistent with purpura, which can be indicative of vasculitis or conditions like Henoch-Sch\u00f6nlein Purpura (HSP). The presence of both petechiae and larger purpuric lesions suggests a possible inflammatory process affecting the small blood vessels.",
+      "confidence_score": "75%",
+      "differential_diagnoses": [
+        "Henoch-Sch\u00f6nlein Purpura (HSP)",
+        "Vasculitis (various types)",
+        "Thrombocytopenic Purpura (ITP or TTP)",
+        "Drug-induced purpura",
+        "Pigmented purpuric dermatosis (Schamberg's disease)",
+        "Rocky Mountain Spotted Fever (RMSF)"
+      ],
+      "recommended_actions": [
+        "Complete blood count (CBC) with platelet count to rule out thrombocytopenia.",
+        "Coagulation studies (PT/INR, aPTT) to assess clotting function.",
+        "Urinalysis to evaluate for renal involvement (hematuria, proteinuria).",
+        "Skin biopsy for histopathological examination and direct immunofluorescence to confirm vasculitis and identify specific antibody deposits (e.g., IgA in HSP).",
+        "Consider renal function tests (BUN, creatinine) to assess kidney function.",
+        "Clinical evaluation for other systemic symptoms (abdominal pain, joint pain) to further differentiate between potential diagnoses.",
+        "Referral to a dermatologist or rheumatologist for further evaluation and management."
+      ],
+      "severity_level": "Moderate",
+      "urgency": "Urgent"
+    }
+  },
+  {
+    "id": "a56efdfd-8b4e-4de5-ab61-73ede5fbdb0f",
+    "timestamp": "2025-11-05T23:42:52.547581",
+    "image": "ec26619e-7863-428a-975a-5e46d59d866c.png",
+    "prediction": {
+      "disclaimer": "This analysis is based solely on the provided image and should not be considered a definitive diagnosis. Always consult with a qualified healthcare professional for accurate diagnosis and treatment.",
+      "primary_prediction": "Insufficient image quality for diagnostic interpretation.",
+      "visual_rationale": "The image is completely black, providing no visual information or features to analyze. No anatomical structures, lesions, or other relevant clinical signs are discernible.",
+      "confidence_score": "100%",
+      "differential_diagnoses": [
+        "Image acquisition error",
+        "System malfunction",
+        "Complete signal absence",
+        "Image processing failure"
+      ],
+      "recommended_actions": [
+        "Repeat image acquisition with appropriate settings.",
+        "Verify imaging equipment functionality.",
+        "Review image processing protocols.",
+        "Consult with a radiologist or imaging specialist."
+      ],
+      "severity_level": "Low",
+      "urgency": "Routine"
+    }
+  },
+  {
+    "id": "ed500f3f-e911-4418-80e6-34b853c922a5",
+    "timestamp": "2025-11-05T23:42:08.648757",
+    "image": "bcadd524-9441-4a99-b369-9534152658a7.jpg",
+    "prediction": {
+      "disclaimer": "This analysis is based solely on the provided image and should not be considered a definitive diagnosis. A qualified healthcare professional should be consulted for accurate diagnosis and treatment.",
+      "primary_prediction": "Purpura, likely Henoch-Sch\u00f6nlein Purpura (HSP) or vasculitis.",
+      "visual_rationale": "The image shows multiple, small, raised, reddish-purple lesions (purpura) on the lower leg and ankle. Some lesions appear petechial, while others are larger and more confluent. The distribution and morphology are consistent with vasculitis, particularly Henoch-Sch\u00f6nlein Purpura (HSP), which often presents with palpable purpura on the lower extremities.",
+      "confidence_score": "75%",
+      "differential_diagnoses": [
+        "Immune thrombocytopenic purpura (ITP)",
+        "Drug-induced vasculitis",
+        "Infectious vasculitis (e.g., meningococcemia)",
+        "Pigmented purpuric dermatosis (e.g., Schamberg's disease)",
+        "Erythema nodosum"
+      ],
+      "recommended_actions": [
+        "Complete blood count (CBC) with differential",
+        "Coagulation studies (PT/INR, aPTT)",
+        "Renal function tests (BUN, creatinine)",
+        "Urinalysis to assess for hematuria and proteinuria",
+        "Consider skin biopsy for histopathological examination to confirm vasculitis and rule out other diagnoses.",
+        "Assess for systemic symptoms (abdominal pain, joint pain) suggestive of HSP.",
+        "Consultation with a dermatologist or rheumatologist for further evaluation and management."
+      ],
+      "severity_level": "Moderate",
+      "urgency": "Urgent"
+    }
+  }
+]
